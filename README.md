@@ -1,4 +1,4 @@
-# NYCU-Embedded-System-Design-Final
+# NYCU-Embedded-System-Design-Final-Project
 
 ## Goal
 - Developed face recognition in E9V3 board.
